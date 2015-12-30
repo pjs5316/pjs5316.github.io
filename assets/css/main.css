@@ -1071,7 +1071,7 @@
 	body, input, textarea, select {
 		font-family: 'Open Sans', sans-serif;
 		line-height: 1.85em;
-		color: #888;
+		color: #000000;
 		font-weight: 300;
 	}
 
@@ -1170,6 +1170,7 @@
 
 	p, ul, ol, dl, table {
 		margin-bottom: 2em;
+		
 	}
 
 /* Form */
@@ -1263,7 +1264,7 @@
 			}
 
 			table.default th {
-				text-align: left;
+				text-align: center;
 				padding: 0.5em 1em 0.5em 1em;
 				font-weight: 600;
 				margin: 0 0 1em 0;
